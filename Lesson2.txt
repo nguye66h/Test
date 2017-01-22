@@ -1,1 +1,7 @@
-I’m trying to write something here. Yeah, I know
+<<<<<<< HEAD
+I’m trying to write something here. 
+
+Yeah, I know
+=======
+I’m trying to write something here. WTF?
+>>>>>>> extralesson
